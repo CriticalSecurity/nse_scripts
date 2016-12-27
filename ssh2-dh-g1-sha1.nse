@@ -21,6 +21,7 @@ https://www.openssh.com/legacy.html
 -- PORT   STATE SERVICE
 -- 22/tcp open  ssh
 -- | ssh2-dh-g1-sha1:
+-- |   VULNERABLE:
 -- |   The ssh2 server supports the diffie-hellman-group1-sha1 key exchange.
 -- |     State: VULNERABLE
 -- |     Risk factor: Low
